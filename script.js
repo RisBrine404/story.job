@@ -1,4 +1,4 @@
-const correctPassword = 'aisarah';  // Password yang baru
+const correctPassword = 'aisahar';  // Password yang baru
 
 function checkPassword() {
     const userInput = document.getElementById('password-input').value;
